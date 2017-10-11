@@ -1,1 +1,1 @@
-jygjcat2
+../test2/yfu.txt
